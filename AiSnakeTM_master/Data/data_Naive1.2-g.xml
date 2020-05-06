@@ -1,0 +1,6 @@
+<gameLog />
+<Try nb="1"><snakeLength length="42" /><gridDimension dimension="400.0" /><Score score="0.105" /></Try>
+<Try nb="2"><snakeLength length="32" /><gridDimension dimension="400.0" /><Score score="0.08" /></Try>
+<Try nb="3"><snakeLength length="22" /><gridDimension dimension="400.0" /><Score score="0.055" /></Try>
+<Try nb="4"><snakeLength length="27" /><gridDimension dimension="400.0" /><Score score="0.0675" /></Try>
+<Try nb="5"><snakeLength length="36" /><gridDimension dimension="400.0" /><Score score="0.09" /></Try>
