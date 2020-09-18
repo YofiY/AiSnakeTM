@@ -26,7 +26,7 @@ def initiateGraphics():
 	drawGrid(const.WIDTH,const.HEIGHT, const.GRID,surface)
 
 def updateGraphics(snake, food, fpsClock, fps):
-	drawSnake(surface, const.RED, snake.positions)
+	drawSnake(surface, const.COLOURS, snake.positions)
 	drawSquare(surface, const.GREEN, food.position)
 	screen.blit(surface,(0,0))
 	pygame.display.flip()
