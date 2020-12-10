@@ -1,4 +1,4 @@
-requierments:
+requirements:
 -numpy
 -pygame 1.9.x
 -matplotlib
